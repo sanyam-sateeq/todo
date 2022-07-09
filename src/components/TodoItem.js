@@ -1,7 +1,7 @@
 
 import { List, Button, Typography } from "antd";
 import { useStoreActions } from "easy-peasy";
-const { Text } = Typography;
+const { Text,Input } = Typography;
 
 
 export default function TodoItem({ todo ,removeTodo,todos }) {

@@ -1,3 +1,47 @@
+
+## Main heighlights of projects
+this application manage all the todo task with the features of adding title, discription , date, and tags . the application can take the input from user in succh a manner:-
+The table should have the following columns:
+a. Timestamp created: Timestamp at which a task was created.
+Should be auto set when creating a new entry. A user should not be able to
+edit this.
+b. Title: Title of the task to be done.
+i. A user can set this while creating a new entry. A user can also change
+this updating existing entry.
+ii. Max length: 100 characters.
+iii. Mandatory field
+c. Description: Description of the task to be done.
+i. A user can add details about this task.
+ii. Max length: 1000 characters
+iii. Mandatory field
+d. Due Date: Expected due date to finish the task
+i. A user can set this while creating a new entry. A user can also change
+this updating existing entry.
+ii. Optional field
+e. Tag: One or more tags which user can add to the entry
+i. A user can set this while creating a new entry. A user can also change
+this updating existing entry. Multiple tags can be added to the same
+entry
+ii. Optional field
+iii. Multiple tags with the same value should be saved only once.
+f. Status: Shows status of a task
+i. Should be one of these values.
+1. OPEN (Default value)
+2. WORKING
+3. DONE
+4. OVERDUE
+ii. Mandatory field
+3. The table should support pagination
+# Some images
+## adding todo tasks with date and all
+![alt text](https://github.com/sanyam-sateeq/todo/a.png?raw=true)
+## not accepting if must parameters are not there
+![alt text](https://github.com/sanyam-sateeq/todo/b.png?raw=true)
+## Delete functionality 
+![alt text](https://github.com/sanyam-sateeq/todo/c.png?raw=true)
+
+## much more inside the project to run you can use
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
