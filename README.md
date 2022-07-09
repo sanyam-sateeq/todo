@@ -36,9 +36,9 @@ ii. Mandatory field
 ## adding todo tasks with date and all
 ![alt text](./a.png?raw=true)
 ## not accepting if must parameters are not there
-![alt text](https://github.com/sanyam-sateeq/todo/b.png?raw=true)
+![alt text](./b.png?raw=true)
 ## Delete functionality 
-![alt text](https://github.com/sanyam-sateeq/todo/c.png?raw=true)
+![alt text](./c.png?raw=true)
 
 ## much more inside the project to run you can use
 
