@@ -34,7 +34,7 @@ ii. Mandatory field
 3. The table should support pagination
 # Some images
 ## adding todo tasks with date and all
-![alt text](https://github.com/sanyam-sateeq/todo/a.png?raw=true)
+![alt text](./a.png?raw=true)
 ## not accepting if must parameters are not there
 ![alt text](https://github.com/sanyam-sateeq/todo/b.png?raw=true)
 ## Delete functionality 
